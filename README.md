@@ -1,3 +1,3 @@
-# Reactjs-Facebook<br>
+# ReactJS-Facebook<br>
 
 https://www.npmjs.com/package/react-facebook
